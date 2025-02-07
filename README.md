@@ -1,2 +1,2 @@
 # Plume-AX8400
-WIFI6e
+Plume + Mercury WIFI6e device.
